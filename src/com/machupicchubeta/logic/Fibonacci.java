@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.machupicchubeta.fibonacci.logic;
+package com.machupicchubeta.logic;
 
 import java.util.LinkedList;
 import java.util.List;

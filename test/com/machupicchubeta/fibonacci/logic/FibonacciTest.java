@@ -9,6 +9,7 @@ import org.hamcrest.MatcherAssert;
 import org.hamcrest.core.Is;
 import org.junit.Before;
 import org.junit.Test;
+import com.machupicchubeta.logic.Fibonacci;
 
 /**
  * @author machupicchubeta
